@@ -8,9 +8,9 @@ environment:
   sdk: ">=1.20.1 <3.0.0"
 
 dependencies:
-  http: ^0.12.0
+  http: ^0.12.2
   requester:
     git:
-      url: git://github.com/apptreesoftware/requester
+      url: git://github.com/unicomp21/requester
 dev_dependencies:
-  test: ^1.0.0
+  test: ^1.16.5
