@@ -11,6 +11,8 @@ dependencies:
   http: ^0.13.3
   requester:
     git:
-      url: git://github.com/unicomp21/requester@v1.0.0
+      url: https://github.com/unicomp21/requester.git
+      ref: master
+      
 dev_dependencies:
   test: ^1.16.5
